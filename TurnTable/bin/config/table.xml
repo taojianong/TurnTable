@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data>	
+	<ratPre value="1000" desc="随机精度值" />
+	<rotCnt value="10" desc="转的圈数" />
+	<costTime value="8" desc="转的圈数花费时间,秒" />	
+	<tableAward desc="中午吃饭">
+		<item id="1" from="0" to="20" rat="0-50" desc="天秤座说了算" />
+		<item id="2" from="20" to="40" rat="51-100" desc="食堂" />
+		<item id="3" from="40" to="60" rat="101-200" desc="再车一次" />
+		<item id="4" from="60" to="80" rat="201-250" desc="定盒饭" />
+		<item id="5" from="80" to="100" rat="251-300" desc="黄焖鸡" />
+		<item id="6" from="100" to="120" rat="301-350" desc="沁芥兰" />
+		<item id="7" from="120" to="140" rat="351-400" desc="兴食堂" />
+		<item id="8" from="140" to="160" rat="401-500" desc="再车一次" />
+		<item id="9" from="160" to="180" rat="501-550" desc="鼻屎米线" />
+		<item id="10" from="180" to="200" rat="551-600" desc="老谭请客" />
+		<item id="11" from="200" to="220" rat="601-650" desc="火锅菜" />
+		<item id="12" from="220" to="240" rat="651-700" desc="兰州拉面" />		
+		<item id="13" from="240" to="260" rat="701-750" desc="兰姐面馆" />
+		<item id="14" from="260" to="280" rat="751-800" desc="老面馆" />
+		<item id="15" from="280" to="300" rat="801-850" desc="选项不在当前位面" />
+		<item id="16" from="300" to="320" rat="851-950" desc="再车一次" />
+		<item id="17" from="320" to="340" rat="951-1000" desc="绵阳米线" />
+		<item id="18" from="340" to="360" rat="1001-1001" desc="711" />		
+	</tableAward>
+	
+</data>

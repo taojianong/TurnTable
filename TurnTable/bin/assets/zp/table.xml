@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data>	
+	<ratPre value="1000" desc="随机精度值" />
+	<rotCnt value="10" desc="转的圈数" />
+	<costTime value="8" desc="转的圈数花费时间,秒" />	
+	<tableAward desc="转盘奖励">
+		<item id="1" from="0" to="30" rat="0-100" desc="1元话费" />
+		<item id="2" from="30" to="60" rat="190-200" desc="10元代金卷" />
+		<item id="3" from="60" to="90" rat="200-392" desc="创意生活小凳" />
+		<item id="4" from="90" to="120" rat="392-400" desc="50元代金卷" />
+		<item id="5" from="120" to="150" rat="400-500" desc="财源广进" />
+		<item id="6" from="150" to="180" rat="594-600" desc="100元代金卷" />
+		<item id="7" from="180" to="210" rat="600-700" desc="5元话费" />
+		<item id="8" from="210" to="240" rat="700-800" desc="羊年大吉" />
+		<item id="9" from="240" to="270" rat="896-900" desc="200元代金卷" />
+		<item id="10" from="270" to="300" rat="900-940" desc="3元话费" />
+		<item id="11" from="300" to="330" rat="940-1000" desc="吉祥如意" />
+		<item id="12" from="330" to="360" rat="1001-1001" desc="500元代金卷" />		
+	</tableAward>
+	
+</data>
